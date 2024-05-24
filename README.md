@@ -1,4 +1,4 @@
-# Extracting Supernova Signals
+# Extracting Supernova Signals (under construction)
 
 ## Overview
 This project focuses on extracting supernova signals from noisy data using a combination of data processing, machine learning, and signal processing techniques. The primary goal is to develop a neural network model that can identify and isolate supernova signals within a dataset that includes various forms of noise.
